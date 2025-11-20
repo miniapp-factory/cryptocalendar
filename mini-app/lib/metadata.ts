@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Crypto Event Calendar";
+export const description = "Crypto Event Calendar is a Mini App that helps users stay updated on important cryptocurrency events. Track upcoming token launches, airdrops, governance votes, conferences, AMAs, and major ecosystem updates. Receive reminders so you never miss a valuable opportunity or deadline. Key Features: • Real-time calendar of upcoming crypto events • Tracking of token launches, airdrops, governance votes, and ecosystem updates • Custom reminders and notifications for selected events • Daily/weekly event summaries • Simple dashboard to manage and filter events by category Use Case: Perfect for crypto enthusiasts, traders, and investors who want to stay organized and informed about key events that may influence markets or provide participation opportunities.";
 export const url = process.env.NEXT_PUBLIC_URL;
